@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C831CEDF-FDEC-880E-62C2-2016170CA009}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TypeOut/Scripts/TypeOutEditor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="21" Column="37" />
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="17" Column="64" />
+      <File FileName="Assets/Scripts/Pickup.cs" Line="9" Column="62" />
+      <File FileName="Assets/TypeOut/Scripts/TypeOutEditor.cs" Line="2" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RollTheBall PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
