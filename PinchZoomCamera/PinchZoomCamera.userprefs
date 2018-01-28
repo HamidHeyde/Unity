@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40D2D066-58F4-D8DF-7A90-04DBAE729AEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PinchController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PinchController.cs" Line="37" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PinchZoomCamera PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
