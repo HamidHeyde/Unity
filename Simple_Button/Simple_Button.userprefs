@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F69CFB35-547B-E92E-DDDA-3CF91C5DBE09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Cube_Rotator.cs">
+    <Files>
+      <File FileName="Assets/Script/Cube_Rotator.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Simple__Button PreferredExecutionTarget="Unity.Editor" />
+</Properties>
