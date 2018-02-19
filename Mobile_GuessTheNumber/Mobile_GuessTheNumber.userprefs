@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6BBE6184-74ED-1621-3C06-3D5E11E3749C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Controller.cs">
+    <Files>
+      <File FileName="Assets/Controller.cs" Line="30" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mobile__GuessTheNumber PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
